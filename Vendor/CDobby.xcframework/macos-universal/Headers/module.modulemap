@@ -1,0 +1,5 @@
+module CDobby {
+  header "dobby.h"
+  export *
+  link "dobby"
+}

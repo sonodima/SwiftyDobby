@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "respectsExistingLineBreaks": false,
+  "lineBreakBeforeControlFlowKeywords": true,
+  "lineBreakBeforeEachArgument": true,
+  "lineBreakBeforeEachGenericRequirement": true,
+  "lineBreakBetweenDeclarationAttributes": true,
+  "prioritizeKeepingFunctionOutputTogether": true,
+  "lineBreakAroundMultilineExpressionChainComponents": true,
+  "multilineTrailingCommaBehavior": "alwaysUsed",
+  "lineLength": 80,
+  "indentation": {
+    "spaces": 2
+  }
+}
